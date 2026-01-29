@@ -1,2 +1,5 @@
 app/.keep
-app/layout.tsx
+app/
+  layout.tsx
+  page.tsx
+  globals.css
